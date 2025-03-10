@@ -1,20 +1,15 @@
 @use "reset";
 @use "base";
 
-body {
-    background: base.$backgroundColor;
-    color: base.$bodyColor;
-    font-family: base.$bodyFont;
-}
 
 body {
     margin: 0;
     padding: 0;
     height: 100vh;
     /* Take 100% of the viewport height */
+    background: base.$color1;
+    color: base.$color5;
     font-family: base.$bodyFont;
-    color: base.$bodyColor;
-    background-color: base.$backgroundColor;
 }
 
 .wrapper {
@@ -28,21 +23,21 @@ body {
 }
 
 header {
-    background-color: base.$backgroundColor;
+    // background-color: base.$backgroundColor;
     color: black;
     padding: 20px;
     text-align: center;
     width: 70%;
 
     h1 {
-        font-family: "lubaline", sans-serif;
+        font-family: base.$mainHeaderFont;
         font-weight: 400;
         font-style: normal;
     }
 }
 
 .main {
-    background-color: base.$backgroundColor;
+    // background-color: base.$backgroundColor;
     display: flex;
     flex-grow: 1;
     /* Take the remaining space */
@@ -57,7 +52,7 @@ header {
 }
 
 footer {
-    background-color: base.$backgroundColor;
+    // background-color: base.$backgroundColor;
     color: #fff;
     padding: 20px;
     // text-align: center;
