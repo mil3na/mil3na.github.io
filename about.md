@@ -3,6 +3,6 @@ layout: default
 title: "About"
 ---
 
-# About Mih
+## About Mih
 
 This is some text about me. Yay.

@@ -4,8 +4,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ " assets/css/main.css" | relative_url }}">
+  <title>{{ site.title }} - {{ page.title }}</title>
+  <link rel="stylesheet" href="https://use.typekit.net/tah1hqp.css">
+  <link href="{{ 'assets/css/main.css' | relative_url }}" rel="stylesheet">
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SM1F3V4V0G"></script>
@@ -25,19 +26,17 @@
       <small>Web Engineer, Data Explorer, and Stationery Lover</small>
       <nav>
         <ul>
-          <li><a href="">Home</a></li>
-          <li><a href="">About</a></li>
-          <li><a href="">Study Cases</a></li>
-          <li><a href="">CV</a></li>
-          <li><a href="">Contact</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/studies">Study Cases</a></li>
+          <li><a href="/cv">CV</a></li>
+          <li><a href="/contact">Contact</a></li>
         </ul>
       </nav>
     </header>
     <section class="main">
-      <div class="right-column">
-        <!-- Right column content here -->
-        <h2>Right Column</h2>
-        <p>This is the right column.</p>
+      <div class="main-column">
+        <!-- Main column content here -->
         <article>
           {{ content }}
         </article>
