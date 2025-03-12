@@ -143,9 +143,9 @@ body {
     padding: 0;
     height: 100vh;
     /* Take 100% of the viewport height */
-    background: base.$darkBlue;
-    color: base.$beige;
-    font-family: base.$bodyFont;
+    background: $darkBlue;
+    color: $beige;
+    font-family: $bodyFont;
 }
 
 .wrapper {
@@ -159,21 +159,21 @@ body {
 }
 
 header {
-    // background-color: base.$backgroundColor;
+    // background-color: $backgroundColor;
     color: black;
     padding: 20px;
     text-align: center;
     width: 70%;
 
     h1 {
-        font-family: base.$mainHeaderFont;
+        font-family: $mainHeaderFont;
         font-weight: 400;
         font-style: normal;
     }
 }
 
 .main {
-    // background-color: base.$backgroundColor;
+    // background-color: $backgroundColor;
     display: flex;
     flex-grow: 1;
     /* Take the remaining space */
@@ -188,7 +188,7 @@ header {
 }
 
 footer {
-    // background-color: base.$backgroundColor;
+    // background-color: $backgroundColor;
     color: #fff;
     padding: 20px;
     // text-align: center;
