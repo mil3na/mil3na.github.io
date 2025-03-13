@@ -141,8 +141,6 @@ code {
 body {
     margin: 0;
     padding: 0;
-    height: 100vh;
-    /* Take 100% of the viewport height */
     background: $darkBlue;
     color: $beige;
     font-family: $bodyFont;
@@ -152,56 +150,44 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    // height: 100%;
-    /* Take 100% of the body height */
+    height: 100%;
     align-items: center;
-    /* Center the container horizontally */
+    width: 50%;
+    margin: 0 auto;
 }
 
 header {
-    // background-color: $backgroundColor;
     color: black;
     padding: 20px;
     text-align: center;
-    width: 70%;
 
     h1 {
+        color: $mauve;
         font-family: $mainHeaderFont;
         font-weight: 400;
+        font-size: large;
         font-style: normal;
     }
 }
 
 .main {
-    // background-color: $backgroundColor;
     display: flex;
-    flex-grow: 1;
-    /* Take the remaining space */
-    width: 70%;
     border: 1px dashed #000000;
-    min-height: 100vh;
-}
-
-.main-column {
     flex-grow: 1;
     padding: 20px;
+    width: 100%;
 }
 
 footer {
-    // background-color: $backgroundColor;
-    color: #fff;
     padding: 20px;
-    // text-align: center;
-    width: 70%;
-    /* Match the container width */
     margin-top: auto;
-    /* Stick the footer to the bottom */
-    // position: fixed;
     bottom: 0;
-    left: 0;
     text-align: center;
+}
 
-
+nav {
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 nav ul {
