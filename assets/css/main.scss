@@ -1,22 +1,6 @@
 ---
 ---
 
-
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-// $bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-
-$mainHeaderFont: "lubaline", sans-serif;
-$headerFont: "monotalic", sans-serif;
-$bodyFont: "Courier New", "Helvetica", sans-serif;
-
-// https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4
-$darkBlue: #22223B;
-$lightBlue: #4A4E69;
-$mauve: #9A8C98;
-$sand: #C9ADA7;
-$beige: #F2E9E4;
-
 /* AI Generated */
 
 /* Box Model */
@@ -24,6 +8,10 @@ $beige: #F2E9E4;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+article {
+    width: 100%;
 }
 
 /* Typography */
@@ -144,6 +132,17 @@ code {
 By Mih
 */
 
+$mainHeaderFont: "lubaline", sans-serif;
+$headerFont: "monotalic", sans-serif;
+$bodyFont: "Courier New", "Helvetica", sans-serif;
+
+// https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4
+$darkBlue: #22223B;
+$lightBlue: #4A4E69;
+$mauve: #9A8C98;
+$sand: #C9ADA7;
+$beige: #F2E9E4;
+
 body {
     margin: 0;
     padding: 0;
@@ -183,14 +182,12 @@ header {
         font-family: $mainHeaderFont;
         font-weight: 400;
         font-size: 72px;
-        font-style: bold;
         margin-top: 0.5em;
         margin-bottom: 0px;
     }
 
     small {
-        color: $sand;
-        font-family: $headerFont;
+        color: $mauve;
     }
 }
 
@@ -227,21 +224,38 @@ nav li {
 
 nav a {
     padding: 20px;
-    transition: background-color 0.2s ease;
+
+    color: $sand;
+    font-family: $headerFont;
 }
 
 nav li:last-child {
     margin-right: 0;
 }
 
+.pic-div {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    
+}
+
+.pic-child-div {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid $lightBlue;
+    margin: 5px;
+}
 
 
 
 
-
-.main-div {
-    width: 700px;
-    height: 300px;
+.color-div {
+    width: 100%;
+    height: 70px;
     display: flex;
 }
 
@@ -251,6 +265,7 @@ nav li:last-child {
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 1px solid $lightBlue;
 }
 
 .div1{
@@ -271,4 +286,69 @@ nav li:last-child {
 
 .div5 {
     background-color: $beige;
+}
+
+form {
+    font-size: 1.2em;
+    font-family: $headerFont;
+    color: $mauve;
+    width: 100%;
+
+    input {
+        width: 100%;
+        margin: 20px 0 20px 0;
+    }
+
+    textarea {
+        margin: 20px 0 20px 0;
+    }
+
+    button {
+        padding: 15px 45px;
+        align-items: center;
+        font-size: 1.2rem;
+        border-radius: 15px;
+        border: 2px solid $lightBlue;
+        background: none;
+        color: $sand;
+        font-family: $headerFont;
+    }
+}
+
+article{
+    h2{
+        font-family: $headerFont;
+        color: $mauve;
+    }
+
+    h3{
+        color: $sand;
+        margin-bottom: -0.5em;
+    }
+
+    hr{
+        margin: 2em 0;
+    }
+
+    ul {
+        padding: 30px;
+    }
+
+    ul li{
+      list-style-type: decimal;  
+    }
+
+    .skills li{
+        display: inline-block;
+    }
+
+    .skills li::after {
+        content: "|";
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .skills li:last-child::after {
+        content: "";
+    }
 }

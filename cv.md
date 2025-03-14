@@ -22,10 +22,18 @@ data-focused role, utilizing my skills to bridge the gap between technology and 
 
 ## Skills
 
-|                    |               |         |            |   |
-|--------------------|---------------|---------|------------|---|
-|        React       |   HTML & CSS  |   Git   | JavaScript |   |
-| Data Visualization | Data Analysis | Tableau |     SQL    | R |
+<ul class="skills">
+  <li>React</li>
+  <li>HTML & CSS</li>
+  <li>Git</li>
+  <li>JavaScript</li>
+  <li>Data Visualization</li>
+  <li>Data Analysis</li>
+  <li>Data Cleaning</li>
+  <li>Tableau</li>
+  <li>SQL</li>
+  <li>R</li>
+</ul>
 
 ---
 
