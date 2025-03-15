@@ -372,12 +372,17 @@ article{
 
         nav {
             margin-bottom: 2em;
+            margin-top: 20px;
         }
 
         li a{
             font-size: 0.8em;
             padding: 0;
         }
+    }
+
+    .main{
+        flex-grow: 0;
     }
 
     .wrapper{
