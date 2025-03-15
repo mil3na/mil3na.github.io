@@ -352,3 +352,35 @@ article{
         content: "";
     }
 }
+
+/* Mobile devices (max-width: 768px) */
+@media only screen and (max-width: 768px) {
+
+    /* Styles for mobile devices */
+    body {
+        font-size: 14px;
+    }
+
+    header nav{
+        display: none;
+    }
+
+    footer{
+        display: block;
+        margin: 0;
+        padding: 0;
+
+        nav {
+            margin-bottom: 2em;
+        }
+
+        li a{
+            font-size: 0.8em;
+            padding: 0;
+        }
+    }
+
+    .wrapper{
+        width: 90%;
+    }
+}
