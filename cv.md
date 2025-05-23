@@ -27,12 +27,16 @@ data-focused role, utilizing my skills to bridge the gap between technology and 
   <li>HTML & CSS</li>
   <li>Git</li>
   <li>JavaScript</li>
+  <li>Typescript (basic)</li>
+  <li>Node.js</li>
   <li>Data Visualization</li>
   <li>Data Analysis</li>
   <li>Data Cleaning</li>
   <li>Tableau</li>
   <li>SQL</li>
   <li>R</li>
+  <li>Remote Collaboration</li>
+  <li>Mentoring</li>
 </ul>
 
 ---
@@ -43,17 +47,19 @@ data-focused role, utilizing my skills to bridge the gap between technology and 
 
 <sub> June 2023 - September 2024</sub>
 
-- Reviewed over 200 public pull requests in TypeScript, ensuring high-quality code standards and contributing to data-driven community and extension-building guidelines.
-- Engaged with the community through various platforms, gathering user feedback and insights to inform product development and improve user experience.
-- Developed and enforced guidelines to streamline processes, demonstrating analytical skills and the ability to derive actionable insights from community interactions.
+- Reviewed 200+ public open source pull requests in TypeScript, ensuring code quality and best practices for Raycast Store extensions.
+- Authored and enforced community and extension development guidelines, promoting consistency and high standards across the platform.
+- Provided daily technical support and guidance to users via email, Slack, and social media, enhancing developer engagement and satisfaction.
+- Fostered a collaborative community environment by addressing user feedback and facilitating knowledge sharing among extension developers.
 
 ### Web Engineer @ Spotify
 
 <sub>August 2016 - October 2022</sub>
 
-- Led and executed A/B tests and OKRs, ensuring alignment with stakeholders and utilizing data to drive strategic decisions and product improvements.
-- Enhanced CI/CD pipelines, reducing deployment times significantly, demonstrating strong problem-solving skills and an ability to optimize processes.
-- Conducted user research and data analysis to understand tablet client usage, contributing to data-driven insights and experimentation strategies.
+- Developed and maintained core features for Spotify Web Player, Desktop Client (React), Embedded Widget, and Mobile Web Player, collaborating with designers to deliver user-friendly interfaces. Owned features end-to-end, from planning and building to testing, deploying, and iterating based on user feedback, ensuring high performance and scalability for millions of users.
+- Led cross-functional teams in experimentation and A/B testing for tablet and desktop clients, driving data-driven product improvements and stakeholder alignment through effective OKR management.
+- Optimized CI/CD pipelines, reducing deployment times by over 65 %, and facilitated a seamless migration to a mono-repo architecture for web and desktop platforms.
+- Collaborated on web infrastructure enhancements, participated in on-call rotations to ensure platform reliability, and contributed to technical hiring by interviewing candidates and onboarding new engineers.
 
 ### Researcher @ LSD - UFCG
 

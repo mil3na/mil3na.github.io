@@ -3,9 +3,9 @@ layout: default
 title: "Home"
 ---
 
-## Hi!
+## Henlo
 
-Welcome! I'm Milena, a Web Engineer passionate about data and looking for an opportunity on the Data Analytics / Data Science world. 
+Welcome! I'm Milena, a Web Engineer passionate about data.
 
 I'm also a fountain pen collector, stationery lover and mechanical keyboard enthusiast.
 
