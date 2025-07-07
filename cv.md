@@ -5,18 +5,18 @@ title: "CV"
 
 ## Milena Araujo
 
-Exploring New Horizons in Data Analysis and Data Science
+Web Engineer, data curious.
 
 ---
 
 ## Summary
 
-Experienced Frontend Engineer transitioning into a Data Analyst / Data Scientist
-role, leveraging a strong technical background and a passion for data-driven
-decision-making. With expertise in JavaScript, React, and web technologies, I excel at
-optimizing user experiences and driving strategic improvements. I am eager to apply
-my analytical abilities to uncover insights and support informed decision-making in a
-data-focused role, utilizing my skills to bridge the gap between technology and data.
+Full Stack Engineer with 6+ years’ experience building scalable web applications using
+JavaScript, TypeScript, React, and Node.js. Proven success in remote, cross-functional, and
+startup-like teams. Open-source contributor with an ownership mindset, skilled in code
+review, CI/CD, and A/B testing. Strong communicator focused on user experience, product
+impact, and continuous improvement. Background in community building and
+engagement.
 
 ---
 
