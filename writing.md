@@ -14,4 +14,4 @@ title: "Writing"
 
 ## Personal
 
-- [About my sabbatical](https://medium.com/@mih/reflections-on-my-sabbatical-5118b07defc1)
+- Soon
