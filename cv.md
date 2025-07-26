@@ -11,12 +11,7 @@ Web Engineer, data curious.
 
 ## Summary
 
-Full Stack Engineer with 6+ years’ experience building scalable web applications using
-JavaScript, TypeScript, React, and Node.js. Proven success in remote, cross-functional, and
-startup-like teams. Open-source contributor with an ownership mindset, skilled in code
-review, CI/CD, and A/B testing. Strong communicator focused on user experience, product
-impact, and continuous improvement. Background in community building and
-engagement.
+FullStack Web Engineer with over 6 years of experience architecting and delivering scalable web applications using JavaScript, TypeScript, React, and Node.js. Consistently excel in remote, cross-functional, and fast-paced startup and enterprise environments. Demonstrated track record as an open source contributor with a strong ownership mindset, excelling in code review, CI/CD, and A/B testing. Recognized for clear communication, a relentless focus on user experience and product impact, and a commitment to continuous improvement. 
 
 ---
 
@@ -41,32 +36,37 @@ engagement.
 
 ---
 
-## Employement History
+## Employment History
 
 ### Community Engineer @ Raycast
 
 <sub> June 2023 - September 2024</sub>
 
-- Reviewed 200+ public open source pull requests in TypeScript, ensuring code quality and best practices for Raycast Store extensions.
-- Authored and enforced community and extension development guidelines, promoting consistency and high standards across the platform.
-- Provided daily technical support and guidance to users via email, Slack, and social media, enhancing developer engagement and satisfaction.
-- Fostered a collaborative community environment by addressing user feedback and facilitating knowledge sharing among extension developers.
+- Proactively reviewed over 200 public open source pull requests in TypeScript, consistently upholding exceptional code quality and best practices for Raycast Store extensions.
+- Authored and rigorously enforced comprehensive community and extension development guidelines, driving consistency and elevating standards across the entire platform.
+- Delivered expert technical support and guidance to users daily via email, Slack, and social media, significantly boosting developer engagement and satisfaction.
+- Cultivated a vibrant and collaborative community by actively addressing user feedback and championing knowledge sharing among extension developers.
 
-### Web Engineer @ Spotify
+Left the ecosystem stronger and more contributor-friendly than it was when I joined.
+
+### Software Engineer @ Spotify
 
 <sub>August 2016 - October 2022</sub>
 
-- Developed and maintained core features for Spotify Web Player, Desktop Client (React), Embedded Widget, and Mobile Web Player, collaborating with designers to deliver user-friendly interfaces. Owned features end-to-end, from planning and building to testing, deploying, and iterating based on user feedback, ensuring high performance and scalability for millions of users.
-- Led cross-functional teams in experimentation and A/B testing for tablet and desktop clients, driving data-driven product improvements and stakeholder alignment through effective OKR management.
-- Optimized CI/CD pipelines, reducing deployment times by over 65 %, and facilitated a seamless migration to a mono-repo architecture for web and desktop platforms.
-- Collaborated on web infrastructure enhancements, participated in on-call rotations to ensure platform reliability, and contributed to technical hiring by interviewing candidates and onboarding new engineers.
+- Spearheaded the development and maintenance of core features for the Spotify Web Player, Desktop Client (React), Embedded Widget, and Mobile Web Player, impacting more than 10M users. Partnered closely with designers to deliver intuitive, user-centric interfaces, and took full ownership of features from planning and implementation to testing, deployment, and iterative improvement—ensuring exceptional performance and scalability for millions of users.
+- Led cross-functional teams in designing and executing experimentation and A/B testing strategies for tablet and desktop clients, driving impactful, data-driven product enhancements and aligning stakeholders through effective OKR management.
+- Engineered significant optimizations to CI/CD pipelines, cutting deployment times by over 65 %, and orchestrated a seamless migration to a mono-repo architecture across web and desktop platforms.
+- Drove web infrastructure improvements, maintained platform reliability through active participation in on-call rotations, and strengthened the engineering team by interviewing candidates and onboarding new hires.
 
 ### Researcher @ LSD - UFCG
 
 <sub>March 2013 - July 2015</sub>
 
-- Conducted extensive research on behavioral differences in Q&A communities using large-scale datasets from StackExchange, employing data analysis to uncover insights into user behavior.
-- Utilized MongoDB and Python's scientific libraries to manage and analyze big data, showcasing proficiency in data manipulation and statistical analysis.
+- Conducted a large-scale quantitative analysis of millions of users across 100+ StackExchange Q&A communities, with a focus on STEM-related sites such as Stack Overflow.
+- Investigated behavioral differences between men and women contributors in STEM communities, addressing gender participation imbalance through data-driven methods.
+- Leveraged big data technologies, including MongoDB (NoSQL) and Python scientific libraries (NumPy, pandas, SciPy) for data extraction, cleaning, and statistical analysis.
+- Demonstrated that gender has minimal impact on user behavior, post quality, contribution levels, and engagement, with observed differences largely consistent with existing academic literature.
+- Developed expertise in quantitative research, statistical data analysis, and large-scale data processing.
 - Presented research findings at SACC 2016, demonstrating strong communication skills and the ability to convey complex data insights to diverse audiences.
 
 ---
@@ -85,7 +85,7 @@ Focused on CSCW. Dissertation theme: behavior differences between men and women 
 
 ---
 
-## Coursers and Certifications
+## Courses and Certifications
 
 ### Google Data Analytics Professional Certificate @ Coursera
 
