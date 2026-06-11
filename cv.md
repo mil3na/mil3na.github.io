@@ -38,6 +38,14 @@ FullStack Web Engineer with over 6 years of experience architecting and deliveri
 
 ## Employment History
 
+### Senior Frontend Engineer @ Nooga
+
+<sub> October 2025 - Present</sub>
+
+- Architected and built "License Checker," a shared Azure Function backend service (TypeScript, Drizzle ORM, Postgres) integrated with Stripe and HubSpot, successfully refactored two core products to leverage it as a single source of truth for license verification.
+- Revamped the "Customer Tools" internal portal, building a database-management UI with Radix and TypeScript that instantly reflects real-time license and user-access changes in production, while executing a complete overhaul of the UX and branding.
+- Developing frontend features for "Navigator" (a GRC agentic AI platform), implementing real-time UI components like AI Chat and Document Matrix using TanStack, Server-Sent Events (SSE), and RAG streaming, supported by a custom-built database-service npm package.
+
 ### Community Engineer @ Raycast
 
 <sub> June 2023 - September 2024</sub>
