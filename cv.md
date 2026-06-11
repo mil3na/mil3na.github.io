@@ -11,7 +11,13 @@ Web Engineer, data curious.
 
 ## Summary
 
-FullStack Web Engineer with over 6 years of experience architecting and delivering scalable web applications using JavaScript, TypeScript, React, and Node.js. Consistently excel in remote, cross-functional, and fast-paced startup and enterprise environments. Demonstrated track record as an open source contributor with a strong ownership mindset, excelling in code review, CI/CD, and A/B testing. Recognized for clear communication, a relentless focus on user experience and product impact, and a commitment to continuous improvement. 
+Senior Software Engineer with extensive experience since 2016, driving impactful projects at Spotify, Raycast, and Nooga. Delivered high-quality software solutions, enhancing user experiences and system efficiency. Skilled in frontend development and community engineering, consistently contributing to innovative tech environments.
+
+---
+
+I’m a Senior Software Engineer with extensive experience since 2016, delivering scalable, high-performance web applications using TypeScript, React, and Node.js. I thrive in remote, cross-functional, and fast-paced startup environments, bringing a strong ownership mindset and passion for open source contributions.
+
+My core strengths include web engineering, data-driven product optimization through A/B testing, and a deep user-centric focus. I excel at bridging technical execution with product impact while fostering collaboration and community engagement. I’m an effective communicator and enjoy mentoring and sharing knowledge within developer ecosystems.
 
 ---
 
