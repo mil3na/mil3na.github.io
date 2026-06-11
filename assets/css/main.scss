@@ -236,7 +236,7 @@ nav li:last-child {
 .pic-div {
     width: 100%;
     display: flex;
-    filter: sepia(0.4);
+    filter: grayscale(0.4);
 }
 
 .pic-child-div {
