@@ -28,16 +28,16 @@ My core strengths include web engineering, data-driven product optimization thro
   <li>HTML & CSS</li>
   <li>Git</li>
   <li>JavaScript</li>
-  <li>Typescript (basic)</li>
+  <li>Typescript</li>
   <li>Node.js</li>
   <li>Data Visualization</li>
   <li>Data Analysis</li>
-  <li>Data Cleaning</li>
-  <li>Tableau</li>
   <li>SQL</li>
   <li>R</li>
+  <li>Python</li>
   <li>Remote Collaboration</li>
   <li>Mentoring</li>
+  <li>Public Speaking</li>
 </ul>
 
 ---
